@@ -42,7 +42,7 @@ More projects will be added as I continue learning and building.
 
 ## 📫 Connect With Me
 
-- GitHub: [codebypushpa](https://github.com/devbypushpa)
+- GitHub: [devbypushpa](https://github.com/devbypushpa)
 
 ---
 
