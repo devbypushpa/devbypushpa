@@ -1,4 +1,5 @@
-## Hi, I'm PUSHPA TOPNO 👋
+
+# Hi, I'm PUSHPA TOPNO 👋
 
 ### BCA Student | Aspiring Software Developer & Data Analyst
 
@@ -28,7 +29,11 @@ I am a BCA student interested in Software Development and Data Analytics. I enjo
 
 ## 🚀 Projects
 
-I am currently working on projects to improve my programming and development skills.
+### Student Database
+A Python-based student database project developed to practice programming and database management concepts.
+
+### Web Development Projects
+Building HTML and CSS projects to improve frontend development skills.
 
 More projects will be added as I continue learning and building.
 
@@ -46,19 +51,4 @@ More projects will be added as I continue learning and building.
 
 ---
 
-⭐ Thank you for visiting my profile!# Hi there 👋
-
-<!--
-**devbypushpa/devbypushpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thank you for visiting my profile!
